@@ -1,0 +1,19 @@
+{
+  "name": "google-homepage-clone",
+  "version": "1.0.0",
+  "description": "A clone of the google home page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eguono/Andela-Front-End-Project.git"
+  },
+  "author": "Eguonoghene Efekemo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eguono/Andela-Front-End-Project/issues"
+  },
+  "homepage": "https://github.com/Eguono/Andela-Front-End-Project#readme"
+}
