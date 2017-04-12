@@ -1,0 +1,49 @@
+html {
+    font-family: 'Arial';
+    font-size: small;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+/* Nav Menu Up Top */
+#nav {
+    float: right;
+}
+
+#nav li {
+    padding-left: 15px;
+}
+
+#nav ul {
+    padding-right: 30px;
+}
+
+ul, li {
+    display: inline-block;
+}
+
+li > a {
+    text-decoration: none;
+    color: #777;
+}
+
+li:hover {
+    text-decoration: underline;
+}
+
+li img {
+    opacity: 0.5;
+    vertical-align: middle;
+}
+
+.pic {
+    border-radius: 100%;
+    -moz-border-radius: 100%;
+    -webkit-border-radius: 100%;
+    max-width: 30px;
+    max-height: 30px;
+}
